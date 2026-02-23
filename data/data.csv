@@ -1,0 +1,161 @@
+text,category
+finish math assignment,Study
+submit coding assignment,Study
+complete AI homework,Study
+review lecture slides,Study
+study for midterm exam,Study
+prepare final exam notes,Study
+read machine learning chapter,Study
+practice SQL problems,Study
+write research summary,Study
+update project documentation,Study
+debug python script,Study
+work on deep learning model,Study
+revise statistics notes,Study
+practice linear algebra problems,Study
+prepare group presentation,Study
+organize study notes,Study
+complete lab assignment,Study
+submit canvas homework,Study
+review class recording,Study
+work on portfolio project,Study
+
+team meeting at 10am,Work
+client meeting preparation,Work
+send follow up email,Work
+reply to client emails,Work
+prepare weekly report,Work
+review sprint backlog,Work
+fix backend bug,Work
+deploy api update,Work
+update task board,Work
+write meeting notes,Work
+schedule performance review,Work
+organize work files,Work
+submit timesheet,Work
+plan marketing strategy,Work
+update project timeline,Work
+coordinate with team,Work
+attend zoom meeting,Work
+prepare sales report,Work
+organize desk at office,Work
+clean workspace desk,Work
+
+go to gym workout,Health
+morning run session,Health
+book doctor appointment,Health
+buy medicine refill,Health
+track daily calories,Health
+drink 2 liters water,Health
+stretch after workout,Health
+schedule dentist visit,Health
+meditation practice session,Health
+therapy appointment reminder,Health
+order vitamins online,Health
+healthy meal prep,Health
+sleep early tonight,Health
+walk 5k steps,Health
+book health checkup,Health
+
+clean apartment kitchen,Personal
+do laundry tonight,Personal
+buy groceries list,Personal
+call mom tonight,Personal
+water plants at home,Personal
+organize desk,Personal
+organize desk at home,Personal
+organize study desk,Personal
+clean bedroom desk,Personal
+declutter desk drawer,Personal
+clean closet shelves,Personal
+organize bookshelf,Personal
+schedule haircut appointment,Personal
+renew passport documents,Personal
+book flight tickets,Personal
+plan weekend trip,Personal
+organize room storage,Personal
+clean bathroom sink,Personal
+tidy up workspace,Personal
+organize personal files,Personal
+
+pay electricity bill,Finance
+pay rent online,Finance
+review bank statement,Finance
+transfer money to savings,Finance
+set monthly budget,Finance
+cancel gym subscription,Finance
+renew car insurance,Finance
+file tax documents,Finance
+track monthly expenses,Finance
+check credit score,Finance
+pay phone bill,Finance
+review credit card charges,Finance
+schedule bill payment,Finance
+update investment account,Finance
+budget planning session,Finance
+
+watch netflix movie,Leisure
+play video games,Leisure
+read fiction novel,Leisure
+listen to podcast episode,Leisure
+plan movie night,Leisure
+attend live concert,Leisure
+practice photography walk,Leisure
+try new restaurant,Leisure
+gaming session tonight,Leisure
+stream favorite show,Leisure
+play chess online,Leisure
+watch youtube tutorials,Leisure
+read self improvement book,Leisure
+listen to music playlist,Leisure
+plan coffee with friends,Leisure
+
+organize desk before meeting,Work
+organize desk for productivity,Personal
+clean office desk area,Work
+organize desk and files,Personal
+declutter office workspace,Work
+organize desk setup,Personal
+tidy office desk,Work
+clean study desk surface,Personal
+rearrange desk layout,Personal
+organize desk drawers,Personal
+
+meet friends for dinner,Social
+call best friend,Social
+schedule coffee meetup,Social
+plan birthday celebration,Social
+attend networking event,Social
+host game night,Social
+send thank you message,Social
+video call family,Social
+plan weekend hangout,Social
+organize friend meetup,Social
+respond to group chat,Social
+attend alumni event,Social
+
+pick up dry cleaning,Personal
+drop off package at post office,Personal
+buy household supplies,Personal
+car wash appointment,Personal
+grocery store run,Personal
+return amazon package,Personal
+schedule car maintenance,Personal
+pick up prescription,Personal
+refill printer ink,Personal
+bank visit for paperwork,Personal
+renew driver license,Personal
+repair laptop charger,Personal
+
+organize desk for zoom call,Work
+clean desk before study session,Study
+organize desk and calendar,Admin
+clean desk after project work,Work
+organize desk before exam prep,Study
+tidy desk for productivity,Personal
+declutter desk before meeting,Work
+organize desk and notes,Study
+clean home office desk,Personal
+rearrange desk for better focus,Personal
+organize desk before presentation,Work
+clean study desk before homework,Study
