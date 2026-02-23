@@ -16,15 +16,6 @@ Supported Categories:
 
 ---
 
-## Sprint Goal
-To implement a REST API that:
-- Accepts a task title
-- Returns exactly one valid category
-- Provides a consistent JSON response format
-- Handles ambiguous input without crashing
-
----
-
 # How to REQUEST Data from the Microservice
 
 The microservice exposes a REST API endpoint.
@@ -166,64 +157,6 @@ REST API over HTTP.
 - Responds in under 500ms for single-task classification.
 - Always returns structured JSON.
 - Does not crash on ambiguous input.
-
----
-
-## User Stories
-
-### 1. Automatic Categorization
-
-**As a user adding a new task,**  
-I want the system to automatically categorize my task  
-so that I can stay organized without manually selecting a category.
-
-**Acceptance Criteria**
-
-Functional:
-- Given a task title,
-- When the microservice is called,
-- Then it shall return exactly one category from the supported list.
-
-Non-Functional:
-- The returned category must be human-readable.
-- The service must not crash on unclear input.
-
----
-
-### 2. Label Correction
-
-**As a user reviewing my tasks,**  
-I want to update a category if it was misclassified  
-so that my planner remains accurate.
-
-**Acceptance Criteria**
-
-Functional:
-- Given an existing task with a category,
-- When a new valid category is submitted,
-- Then the updated category shall be stored.
-
-Non-Functional:
-- If an invalid category is submitted, the system must not crash.
-
----
-
-### 3. Label Clarity
-
-**As a user,**  
-I want the category label returned in a consistent format  
-so that I can clearly understand how my task was classified.
-
-**Acceptance Criteria**
-
-Functional:
-- Given a valid request,
-- When the service responds,
-- Then the response must include a `category` field in a consistent format.
-
-Non-Functional:
-- Response time must be under 500ms.
-- JSON structure must remain consistent across requests.
 
 ---
 ## Setup Instructions
