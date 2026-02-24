@@ -17,6 +17,16 @@ def test_missing_title():
     assert data["status"] == "error"
     print("Missing title test passed")
 
+def main():
+    r1 = requests.post(URL, json={"title": "Organize Desk"})
+    print(r1.status_code)
+    print(r1.json())
+
+    r2 = requests.post(URL, json={})
+    print(r2.status_code)
+    print(r2.json())
+
 if __name__ == "__main__":
+    main()
     test_success()
     test_missing_title()
